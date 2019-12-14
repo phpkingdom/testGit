@@ -1,0 +1,2 @@
+# testGit
+sample about gittcommands
